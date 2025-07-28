@@ -1,4 +1,4 @@
-# SQLProject 
+# SQLProject c
 ## Global Corporate Layoffs Dataset Cleaning in SQL
 
 ## Global Corporate Layoffs Analysis (2020–2025)
